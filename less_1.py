@@ -1,6 +1,4 @@
-response_t = 5
-print(response_t)
-
+t = 5
 import requests
 import json
 
